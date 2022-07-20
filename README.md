@@ -1,4 +1,4 @@
-# ListaExerciciosPython.org
+# Lista de Exercicios Python.org
  Todos os exercicios resolvidos de Python Brasil para o BootCamp da comunidade DevPro.
  https://pythonpro.com.br/comunidade-devpro-matriculas-abertas?utm_campaign=CDP&utm_medium=trafego-organico&utm_source=linktree
  
